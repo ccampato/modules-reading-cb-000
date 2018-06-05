@@ -7,7 +7,7 @@ class Kid
   extend MetaDancing
 
   def initialize(name)
-    @name = name
+    @name= name
   end
 
 end
